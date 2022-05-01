@@ -32,10 +32,10 @@ public class MenuPrincipal {
         switch (opcionMenu){
             //Las clases para el CRUD por el momento se colocan como comentarios
             case "1":
-                //Create create = new Create();
+                
                 break;
             case "2":
-                //Read read = new Read();
+               
                 break;
             case "3":
                 //Update update = new Update();
