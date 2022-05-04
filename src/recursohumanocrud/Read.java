@@ -21,8 +21,8 @@ public class Read {
             String condicionBusqueda="";
             //Metodo que realiza la busqueda
             utilerias.desplegarRegistro(tabla, camposTabla, condicionBusqueda);
+
           
-            
             
         }catch(SQLException ex){
             System.out.println("Ha ocurrido el siguiente error:" + ex.getMessage());
